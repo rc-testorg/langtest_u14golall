@@ -22,5 +22,3 @@ build:
    
   ci:
     - go version
-
-
